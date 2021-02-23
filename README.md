@@ -50,7 +50,13 @@ search for this ip 128.125.52.138
 click on diff
 you will find the falg cNi76bV2IVERlh97hp
 *******************************************************************************
+''6-There are so many different ways of encoding and decoding information nowadays... One of them will work! Q1RGe0ZsYWdneVdhZ2d5UmFnZ3l9'''
 
+use base 64 decoder to decode Q1RGe0ZsYWdneVdhZ2d5UmFnZ3l9
+then this is the flag
+CTF{FlaggyWaggyRaggy}
+*************************************************************************************
+'''7-Here is a file with another file hidden inside it. Can you extract it? https://mega.nz/#!qbpUTYiK!-deNdQJxsQS8bTSMxeUOtpEclCI-zpK7tbJiKV0tXYY'''
 
 
 
