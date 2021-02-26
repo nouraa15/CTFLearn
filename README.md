@@ -56,7 +56,11 @@ use base 64 decoder to decode Q1RGe0ZsYWdneVdhZ2d5UmFnZ3l9
 then this is the flag
 CTF{FlaggyWaggyRaggy}
 *************************************************************************************
-'''7-Here is a file with another file hidden inside it. Can you extract it? https://mega.nz/#!qbpUTYiK!-deNdQJxsQS8bTSMxeUOtpEclCI-zpK7tbJiKV0tXYY'''
+'''7-Morse Code ..-. .-.. .- --. ... .- -- ..- . .-.. -- --- .-. ... . .. ... -.-. --- --- .-.. -... -.-- - .... . .-- .- -.-- .. .-.. .. -.- . -.-. .... . . ...'''
+decrypt this code the you will get the flag as 
+"FLAGSAMUELMORSEISCOOLBYTHEWAYILIKECHEES"
+****************************************************************************************************************************************
+
 
 
 
